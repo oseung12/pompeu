@@ -241,6 +241,5 @@
 	    where 
 	          p.party_no=#{no}
       </select>
-      
 
 </mapper>

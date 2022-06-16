@@ -23,6 +23,3 @@ public interface ChallengeDao {
 
 }
 
-
-
-
