@@ -47,7 +47,7 @@
 <br>
 
 ## 📝 ERD 다이어그램
-<img src="![image](https://user-images.githubusercontent.com/84580700/175499364-711b3d18-c89f-4916-abf8-d78d505ac309.png)" width="1500"/>
+<img src="https://user-images.githubusercontent.com/84580700/175499364-711b3d18-c89f-4916-abf8-d78d505ac309.png" width="1500"/>
 
 <br>
 <br>
@@ -98,22 +98,22 @@
 ### 🔸 운동 성향테스트 및 추천
 
 
-<img src="https://www.notion.so/oseung/POMPEU-8a5b252380f94fd0a90d87e3b0e81fe2#6fb08625f5544777a4e7d5dbaac902e4" width="500"/>
-<img src="https://www.notion.so/oseung/POMPEU-8a5b252380f94fd0a90d87e3b0e81fe2#94c9e764280f443c93325c6a5279f80a" width="500"/>
+<img src="https://user-images.githubusercontent.com/84580700/175499728-d09870fa-77a1-4253-a08b-45865d990ed1.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/84580700/175499794-255afd1d-3c65-4b8a-aa79-78d5a6114e92.png" width="500"/>
 
 <br>
 <br>
 
 ### 🔸 클래스 페이지
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8c021417-b4b3-49e0-b5a8-cd1757e019e9/%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T041135Z&X-Amz-Expires=86400&X-Amz-Signature=198b161c4cfd5d372152151afdce2a8467471325d07d56102ba18a2667b4a777&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25ED%2581%25B4%25EB%259E%2598%25EC%258A%25A4%2520%25EB%25A9%2594%25EC%259D%25B8%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580.png%22&x-id=GetObject" width="600"/>
+<img src="https://user-images.githubusercontent.com/84580700/175499932-2fec152e-860b-4dc7-857a-4e087d486efd.png" width="600"/>
 
 <br>
 <br>
 
 ### 🔸 소모임 페이지
 
-<img src="https://www.notion.so/oseung/POMPEU-8a5b252380f94fd0a90d87e3b0e81fe2#efbfa8f6c95a4d5fad80f5308b25aeee" width="600"/>
+<img src="https://user-images.githubusercontent.com/84580700/175500007-77c64b0e-5993-4267-af92-76dd0bc3766a.png" width="600"/>
 
 <br>
 <br>
