@@ -90,30 +90,32 @@
 
 ### 🔸 메인 페이지
 
-<img src="https://user-images.githubusercontent.com/84580700/175500163-7274066b-7e9c-4e03-8c32-2916e35a1890.png" width="600"/>
+<img src="https://user-images.githubusercontent.com/84580700/175500163-7274066b-7e9c-4e03-8c32-2916e35a1890.png" width="400"/>
 
 <br>
 <br>
 
 ### 🔸 운동 성향테스트 및 추천
 
-
-<img src="https://user-images.githubusercontent.com/84580700/175499728-d09870fa-77a1-4253-a08b-45865d990ed1.png" width="300"/>
-<img src="https://user-images.githubusercontent.com/84580700/175499794-255afd1d-3c65-4b8a-aa79-78d5a6114e92.png" width="300"/>
-
+<table>
+  <tr>
+<td><img src="https://user-images.githubusercontent.com/84580700/175499728-d09870fa-77a1-4253-a08b-45865d990ed1.png" width="100"/></td>
+<td><img src="https://user-images.githubusercontent.com/84580700/175499794-255afd1d-3c65-4b8a-aa79-78d5a6114e92.png" width="100"/></td>
+  </tr>
+</table>
 <br>
 <br>
 
 ### 🔸 클래스 페이지
 
-<img src="https://user-images.githubusercontent.com/84580700/175499932-2fec152e-860b-4dc7-857a-4e087d486efd.png" width="600"/>
+<img src="https://user-images.githubusercontent.com/84580700/175499932-2fec152e-860b-4dc7-857a-4e087d486efd.png" width="400"/>
 
 <br>
 <br>
 
 ### 🔸 소모임 페이지
 
-<img src="https://user-images.githubusercontent.com/84580700/175500278-fe44395d-ff63-4d9e-a20d-e42e959889ba.png" width="600"/>
+<img src="https://user-images.githubusercontent.com/84580700/175500278-fe44395d-ff63-4d9e-a20d-e42e959889ba.png" width="400"/>
 
 <br>
 <br>
