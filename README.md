@@ -7,7 +7,7 @@
 
 ## 📍 프로젝트 소개
 
-> 먼저 프로젝트명 **폼프 는 '폼나는 라이프를 즐기자'** 라는 뜻 입니다. <br> 이전에 운동을 하지 않았거나 취미로 운동을 시작하고 싶은데 어떠한 운동을 하면 좋을지 <br>알기 어려운 입문자들을 위해 맞춤 운동 매칭을 제공하는 서비스가 이 플랫폼의 주목적입니다. 
+> 프로젝트명 **폼프 는 '폼나는 라이프를 즐기자'** 라는 뜻 입니다. <br> 이전에 운동을 하지 않았거나 취미로 운동을 시작하고 싶은데 어떠한 운동을 하면 좋을지 <br>알기 어려운 입문자들을 위해 맞춤 운동 매칭을 제공하는 서비스가 이 플랫폼의 주목적입니다. 
 
 <br>
 <br>
@@ -47,7 +47,7 @@
 <br>
 
 ## 📝 ERD 다이어그램
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c4d91310-4f62-4070-90f4-f385d163e62f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220606%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220606T142442Z&X-Amz-Expires=86400&X-Amz-Signature=f8b9e3aaa4323cc64a130ca156d526e14cc6b56c029044163b9ef6b90750f72d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="1500"/>
+<img src="![image](https://user-images.githubusercontent.com/84580700/175498621-eca2a53e-8a6a-4bd3-ac96-6454a099ae3e.png)" width="1500"/>
 
 <br>
 <br>
@@ -90,7 +90,7 @@
 
 ### 🔸 메인 페이지
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e6bd49b5-841d-4d08-a9c5-e9014c4c2ec3/%ED%8F%BC%ED%94%84_%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T041005Z&X-Amz-Expires=86400&X-Amz-Signature=7949ae05acf0ad314d8ad1ff3c243d63856ae5b818a7e6893f8ad0eea199b8c3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25ED%258F%25BC%25ED%2594%2584%2520%25EB%25A9%2594%25EC%259D%25B8%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580.png%22&x-id=GetObject" width="600"/>
+<img src="https://www.notion.so/oseung/POMPEU-8a5b252380f94fd0a90d87e3b0e81fe2#a3a5ee1a49cf43b3a028403064703f5e" width="600"/>
 
 <br>
 <br>
@@ -98,7 +98,8 @@
 ### 🔸 운동 성향테스트 및 추천
 
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f727c211-c476-45ac-9690-d4b70ad24518/%EC%9A%B4%EB%8F%99%EC%84%B1%ED%96%A5%ED%85%8C%EC%8A%A4%ED%8A%B8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T042340Z&X-Amz-Expires=86400&X-Amz-Signature=00e4c347ddfd2034baba0a2c82717cb4741d5b3d09433ae7fb5e80f9d5684b2f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%259A%25B4%25EB%258F%2599%25EC%2584%25B1%25ED%2596%25A5%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8.png%22&x-id=GetObject" width="500"/>
+<img src="https://www.notion.so/oseung/POMPEU-8a5b252380f94fd0a90d87e3b0e81fe2#6fb08625f5544777a4e7d5dbaac902e4" width="500"/>
+<img src="https://www.notion.so/oseung/POMPEU-8a5b252380f94fd0a90d87e3b0e81fe2#94c9e764280f443c93325c6a5279f80a" width="500"/>
 
 <br>
 <br>
@@ -112,7 +113,7 @@
 
 ### 🔸 소모임 페이지
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7b08ce20-6596-4d76-b2de-ac67ebcd5fde/%EC%86%8C%EB%AA%A8%EC%9E%84_%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220607T041241Z&X-Amz-Expires=86400&X-Amz-Signature=5f96f3398bdc4e0135ab7f4c0a0eb99e9634601c34983aa14b4fb014b07c9f47&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%2586%258C%25EB%25AA%25A8%25EC%259E%2584%2520%25EB%25A9%2594%25EC%259D%25B8%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580.png%22&x-id=GetObject" width="600"/>
+<img src="https://www.notion.so/oseung/POMPEU-8a5b252380f94fd0a90d87e3b0e81fe2#efbfa8f6c95a4d5fad80f5308b25aeee" width="600"/>
 
 <br>
 <br>
