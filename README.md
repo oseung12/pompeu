@@ -47,7 +47,7 @@
 <br>
 
 ## 📝 ERD 다이어그램
-<img src="![image](https://user-images.githubusercontent.com/84580700/175498621-eca2a53e-8a6a-4bd3-ac96-6454a099ae3e.png)" width="1500"/>
+<img src="![image](https://user-images.githubusercontent.com/84580700/175499364-711b3d18-c89f-4916-abf8-d78d505ac309.png)" width="1500"/>
 
 <br>
 <br>
