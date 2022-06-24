@@ -97,10 +97,10 @@
 
 ### 🔸 운동 성향테스트 및 추천
 
-<table>
+<table style="border:hidden">
   <tr>
-<td><img src="https://user-images.githubusercontent.com/84580700/175499728-d09870fa-77a1-4253-a08b-45865d990ed1.png" width="100"/></td>
-<td><img src="https://user-images.githubusercontent.com/84580700/175499794-255afd1d-3c65-4b8a-aa79-78d5a6114e92.png" width="100"/></td>
+<td><img src="https://user-images.githubusercontent.com/84580700/175499728-d09870fa-77a1-4253-a08b-45865d990ed1.png" width="200"/></td>
+<td><img src="https://user-images.githubusercontent.com/84580700/175499794-255afd1d-3c65-4b8a-aa79-78d5a6114e92.png" width="200"/></td>
   </tr>
 </table>
 <br>
