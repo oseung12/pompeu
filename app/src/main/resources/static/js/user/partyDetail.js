@@ -204,3 +204,20 @@
       }
     });
   };
+  
+  // 소모임 글 수정
+  document.querySelector("#x-update-btn").onclick = function() {
+    fetch(`/board/update?no=${no}`)
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(result) {
+      if (result.status == "success") {
+        location.href = "?party-home.html";
+        location.href = "?content=/board/index.html";
+      } else {
+        window.alert("게시글 삭제 실패!");
+        console.log(result.data);
+      }
+    });
+  };
