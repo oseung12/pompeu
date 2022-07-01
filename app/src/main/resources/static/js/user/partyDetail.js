@@ -157,7 +157,6 @@
       zzimCheck = 0;
     }
     
-    
     fetch(`/userparty/wishlistAdd?partyNo=${xParty}`)
     .then(function(response) {
       return response.text();
@@ -213,8 +212,7 @@
     })
     .then(function(result) {
       if (result.status == "success") {
-        location.href = "?party-home.html";
-        location.href = "?content=/board/index.html";
+        location.href = "?party-modify.html";
       } else {
         window.alert("게시글 삭제 실패!");
         console.log(result.data);
