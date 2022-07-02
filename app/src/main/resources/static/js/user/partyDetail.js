@@ -219,3 +219,27 @@
       }
     });
   };
+
+/**  
+  document.querySelector("#x-update-btn").onclick = function() {
+    if (xTitle.value == "" || xContent.value == "") {
+      window.alert("필수 입력 항목이 비어 있습니다.");
+      return;
+    }
+    var fd = new FormData(document.forms.namedItem("form1"));
+  fetch("/board/update", {
+        method: "POST",
+        body: new URLSearchParams(fd)
+      }).then(function(response) {
+        return response.json();
+      })
+      .then(function(result) {
+        if (result.status == "success") {
+          location.href = "?content=/board/index.html";
+        } else {
+          window.alert("게시글 변경 실패!");
+          console.log(result.data);
+        }
+      });
+};
+**/
