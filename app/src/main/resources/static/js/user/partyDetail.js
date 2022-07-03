@@ -214,7 +214,7 @@
       if (result.status == "success") {
         location.href = "?party-modify.html";
       } else {
-        window.alert("게시글 삭제 실패!");
+        window.alert("게시글 수정 실패!");
         console.log(result.data);
       }
     });
@@ -237,7 +237,7 @@
         if (result.status == "success") {
           location.href = "?content=/board/index.html";
         } else {
-          window.alert("게시글 변경 실패!");
+          window.alert("게시글 수정 실패!");
           console.log(result.data);
         }
       });
