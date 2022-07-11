@@ -58,6 +58,5 @@ function moveView(no) {
 }
 
 function moveRegist() {
-  
   location.href = 'party-regist.html'
 }

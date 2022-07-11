@@ -7,7 +7,6 @@ public class ChallengeComment {
   int usersNo;
   String content;
 
-
   @Override
   public String toString() {
     return "ChallengeComment [no=" + no + ", challengeNo=" + challengeNo + ", usersNo=" + usersNo
@@ -37,9 +36,4 @@ public class ChallengeComment {
   public void setContent(String content) {
     this.content = content;
   }
-
-
-
-
-
 }

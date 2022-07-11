@@ -19,7 +19,3 @@ public interface ChallengeCommentDao {
 
   int delete(int no);
 }
-
-
-
-

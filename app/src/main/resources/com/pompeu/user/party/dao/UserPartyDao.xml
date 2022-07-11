@@ -157,7 +157,6 @@
         values(#{usersNo},#{partyNo})
       </insert>  
       
-      	  
     <!-- 소모임 상세 -->
 	  <select id="findByNo" resultType="PartyIntro" parameterType="int">
       /*findByNo*/
