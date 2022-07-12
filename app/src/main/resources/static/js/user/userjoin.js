@@ -126,8 +126,6 @@ emailBtn.addEventListener('click', function (e) {
         })
 });
 
-
-
 xBtn.addEventListener('click', (e) => {
     e.preventDefault();
     const emailRule = /^[0-9a-zA-Z]([-_.]?[0-9a-zA-Z])*@[0-9a-zA-Z]([-_.]?[0-9a-zA-Z])*.[a-zA-Z]{2,3}$/i;
@@ -163,7 +161,6 @@ xBtn.addEventListener('click', (e) => {
         return false;
     }
 
-
     if ($("#memberEmail").val() == null || $("#memberEmail").val() == "") {
         Swal.fire({
             icon: 'warning',
@@ -174,8 +171,6 @@ xBtn.addEventListener('click', (e) => {
         return false;
     }
 
-
-
     if ($("#emailCheck").val() != 'Y') {
         Swal.fire({
             icon: 'warning',
@@ -185,9 +180,6 @@ xBtn.addEventListener('click', (e) => {
 
         return false;
     }
-
-
-
 
     if ($("#password").val() == null || $("#password").val() == "") {
         Swal.fire({
@@ -289,11 +281,6 @@ xBtn.addEventListener('click', (e) => {
     //           })
     //  }
 
-
-
-
-
-
     Swal.fire({
         title: '회원가입 하시겠습니까?',
         icon: 'info',
@@ -350,13 +337,6 @@ xBtn.addEventListener('click', (e) => {
 
 
 
-
-
-
-
-
-
-
 // Swal.fire({
 //     title: '회원가입 하시겠습니까?',
 //     icon: 'info',
@@ -366,10 +346,7 @@ xBtn.addEventListener('click', (e) => {
 //     confirmButtonText: '승인',
 //     cancelButtonText: '취소',
 //     reverseButtons: true, // 버튼 순서 거꾸로
-
 // })
-
-
 
 // xCreatorBtn.addEventListener('click', (e) => {
 //     e.preventDefault();
@@ -414,14 +391,6 @@ xBtn.addEventListener('click', (e) => {
 //         $("#pwDoubleChk").val("false");
 //     }
 // })
-
-
-
-
-
-
-
-
 
 
 // xBtn.addEventListener('click', function () {
@@ -497,17 +466,6 @@ xBtn.addEventListener('click', (e) => {
 // });
 
 
-
-
-
-
-
-
-
-
-
-
-
 // let index = {
 //     init: function () {
 //         xBtn.addEventListener('click', (e) => {
@@ -525,7 +483,6 @@ xBtn.addEventListener('click', (e) => {
 //     };
 //     console.log(data);
 // });
-
 
 
 // const Toast = Swal.mixin({
@@ -556,7 +513,7 @@ xBtn.addEventListener('click', (e) => {
 //          if (result.isConfirmed) {
 //              Swal.fire(
 //                  '승인이 완료되었습니다.',
-//                  '화끈하시네요~!',
+//                  '확인되었습니다.',
 //                  'success'
 //              )
 //          }
