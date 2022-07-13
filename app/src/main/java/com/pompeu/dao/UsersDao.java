@@ -20,14 +20,3 @@ public interface UsersDao {
   int delete(int no);
 
 }
-
-
-
-
-
-
-
-
-
-
-
