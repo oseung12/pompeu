@@ -53,7 +53,7 @@
 <br>
 
 ## 🔅 Architecture
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25b89a71-e574-40a7-a15f-abaacd5fd4c4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220606%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220606T144204Z&X-Amz-Expires=86400&X-Amz-Signature=56d601dadb7add73a0d7ba5d421a3ff2348b65b90668bf1b865d117d612d9e10&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="1500"/>
+<img src="https://user-images.githubusercontent.com/84580700/179182046-927a99ff-eb1f-465d-88a3-4730d02bc5d0.png" width="1500"/>
 
 <br>
 <br>
