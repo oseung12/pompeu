@@ -105,8 +105,8 @@ public class UserController {
     }
     return "fail";
   } 
-  
-  
+
+
 
 
 
@@ -129,7 +129,6 @@ public class UserController {
   //    //    System.out.println("userDetails: " + UserDetails.getUser());
   //    return "세션 정보 확인하기";
   //  }
-
 
   //  @GetMapping("/test/oauth/login")
   //  public String testOAuthLogin(@RequestBody Authentication authentication,
